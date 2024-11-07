@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290460743962",
+    "project_id": "recycleview-f1924",
+    "storage_bucket": "recycleview-f1924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290460743962:android:b58123fc1b27145a9654a3",
+        "android_client_info": {
+          "package_name": "com.example.recycleview_with_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMH6Ocvdz_m4P4DQP8mHmnO6B3-2XNL68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
